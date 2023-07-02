@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_baseline_play_24" />
+    <drawable name="ic_baseline_pause_24" />
+    <drawable name="ic_baseline_stop_24" />
+    <drawable name="ic_baseline_play_arrow_24" />
+</resources>
